@@ -1,0 +1,21 @@
+{
+  "name": "jobby",
+  "version": "1.0.0",
+  "description": "A job listing web app using Indreed",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "job",
+    "indeed",
+    "indreed"
+  ],
+  "author": "Kartikey Tripathi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
